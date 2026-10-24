@@ -9,8 +9,6 @@ This repository contains **Power BI Desktop (.pbix) projects** showcasing a rang
 ### 1. **Sales Performance Analysis**
 A comprehensive performance dashboard exploring sales metrics and team performance.
 
-[LINK](https://app.powerbi.com/view?r=eyJrIjoiYWI5Nzg2OTYtODE3OS00NjhjLThhZGQtZWQwZDkyZWMyYzk1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
-
 **Dataset:**
 
 There were 5 data sets used and data was transformed to ensure relevant columns are used for the aim of the analysis.
@@ -54,8 +52,6 @@ Visual analysis of annual sales and geographical distribution over four consecut
 
 
   **2.1 Sales Dashboard**
-
-  [LINK](https://app.powerbi.com/view?r=eyJrIjoiZGNlZTFiMzYtMTBmNC00ODNiLTkyOTItNzYyZTRhNGY3ZmM1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
   
   Using two more datasets as practice I have identified profit and sales by geographical location, segment and average discount. 
 
@@ -65,8 +61,6 @@ Visual analysis of annual sales and geographical distribution over four consecut
 ---
 
 ### 3. **Employee Training and Development Report and Performance Analysis**
-
-[LINK](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZTkwZWUtOTBjYi00ZjM3LTlmYzktNzRhZWU5NjMzNDViIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="893" height="501" alt="image" src="https://github.com/user-attachments/assets/4ba1a59d-5e1f-40a7-86d4-c15f48523ae7" />
 
@@ -104,8 +98,6 @@ Analysis created to support training delivery for data analytics programmes, sho
 ### 5. Combining Data from Excel and an OData feed in Power BI
 
 An overview of products sold, geographic distribution and order date.
-
-[LINK](https://app.powerbi.com/view?r=eyJrIjoiMDU0OTNjYTUtZTM2ZC00NjdiLTg4YjgtODhhNjMxMDU0NjJjIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="898" height="468" alt="image" src="https://github.com/user-attachments/assets/7c0f5d1b-983d-4371-8535-ae1a16fa1727" />
 
